@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /assets/
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+Sitemap: https://luxima.id/sitemap.xml
